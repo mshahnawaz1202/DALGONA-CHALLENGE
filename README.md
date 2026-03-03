@@ -38,15 +38,15 @@
 1. Make the script executable (if necessary):
 
 ```bash
-chmod +x pro.sh
+chmod +x Code.sh
 ```
 
 2. Run the game:
 
 ```bash
-./pro.sh
+./Code.sh
 # or
-bash pro.sh
+bash Code.sh
 ```
 
 **⚠️ Notes for Windows users**
@@ -61,6 +61,5 @@ bash pro.sh
   - ⏱️ `Difficulty_level()` — adjust `time_limit`
   - 🎯 `player_turn()` / 🤖 `computer_turn()` / 👥 `multiplayer_turn()` — game logic
 
-**👥 Contributors**
 
-- **M. Shah Nawaz** — Student / Developer (23F-3077)
+
