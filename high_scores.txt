@@ -1,0 +1,12 @@
+shah: 3
+ss: 0
+shahnawaz: 0
+shah: 5
+shahnawaz: 5
+shahnawaz: 5
+shahnawaz: 5
+shahnawaz: 5
+shahnawaz: 5
+shahnawaz: 5
+shahnawaz: 3
+swz: 3
